@@ -109,6 +109,7 @@ https://newbie-developer.tistory.com/274
 https://brunch.co.kr/@lselectric/210
 https://m.blog.naver.com/lagrange0115/222142875051
 
+https://www.ampcontrol.io/ocpp-guide/how-to-stop-a-charging-session-with-stoptransaction
 <<<<<<<<<<<<<공식 데이터 포멧 문서>>>>>>>>>>>>>>>>
 https://ocpp-spec.org/schemas/v2.0.1/?utm_source=chatgpt.com#tag/transactioneventresponse
 더미 데이터 1
