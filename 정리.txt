@@ -99,7 +99,6 @@ V2H vehicle to vehicle 다른 차량에 베터리 전력직접 전달
 V2L vehicle to Load 야외 활동 캠핑에 전력공급
 V2V vehicle to Home 가정 소비 전력 보조
 
-
 IEC61851 Control Pilot을 이용한 CP STATE관리 A충전중 B연결은 되었으나 충전되지 않을때 C연결되어서 충전중 D Ventilate E Err
 
 
@@ -112,6 +111,7 @@ https://m.blog.naver.com/lagrange0115/222142875051
 https://www.ampcontrol.io/ocpp-guide/how-to-stop-a-charging-session-with-stoptransaction
 <<<<<<<<<<<<<공식 데이터 포멧 문서>>>>>>>>>>>>>>>>
 https://ocpp-spec.org/schemas/v2.0.1/?utm_source=chatgpt.com#tag/transactioneventresponse
+
 더미 데이터 1
 ==ocpp==
 {
