@@ -1,5 +1,7 @@
 modelTest.ipynb
 acn.ipynb
-data_/report/
-data_/xslc/
+data/report/
+data/xslc/
 model/log/
+*.txt
+*.xlsx
